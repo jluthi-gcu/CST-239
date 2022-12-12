@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Light Sword",
+    "description": "A light weight sharp melee weapon.",
+    "price": 100.74,
+    "quantity": 1,
+    "weight": 6,
+    "weaponDamage": 10
+  },
+  {
+    "name": "Elven Bow",
+    "description": "A fast shooting bow made by the best elvish craftsmanship",
+    "price": 232.21,
+    "quantity": 1,
+    "weight": 9,
+    "weaponDamage": 7
+  },
+  {
+    "name": "Elven Bow",
+    "description": "A fast shooting bow made by the best elvish craftsmanship",
+    "price": 45.21,
+    "quantity": 1,
+    "weight": 9,
+    "weaponDamage": 7
+  },
+  {
+    "name": "Twisted Dagger",
+    "description": "A ugly dagger when brandished makes enemies think twice.",
+    "price": 24.55,
+    "quantity": 1,
+    "weight": 2,
+    "weaponDamage": 5
+  },
+  {
+    "name": "Throwing Axes",
+    "description": "A collection of small axes to throw the enemies way.",
+    "price": 179.83,
+    "quantity": 10,
+    "weight": 2,
+    "weaponDamage": 3
+  },
+  {
+    "name": "Dark Sword",
+    "description": "A sharp black sword that when wielded strikes terror to those against it.",
+    "price": 722.08,
+    "quantity": 1,
+    "weight": 15,
+    "weaponDamage": 20
+  },
+  {
+    "name": "Double Swords",
+    "description": "Two swords that can be dual wielded to deal double the damage",
+    "price": 722.08,
+    "quantity": 2,
+    "weight": 22,
+    "weaponDamage": 16
+  }
+
+]

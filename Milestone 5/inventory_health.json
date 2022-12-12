@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Wolfsbane Potion",
+    "description": "A well made potion capable of bringing any fallen soldier back to 100% health.",
+    "price": 15.32,
+    "quantity": 2,
+    "weight": 3,
+    "health": 10
+  },
+  {
+    "name": "Sip of Peace",
+    "description": "Made with herbs not native to this world.",
+    "price": 110.71,
+    "quantity": 1,
+    "weight": 2,
+    "health": 50
+  },
+  {
+    "name": "Sip of Peace",
+    "description": "Made with herbs not native to this world.",
+    "price": 90.71,
+    "quantity": 1,
+    "weight": 2,
+    "health": 50
+  },
+  {
+    "name": "Sip of Peace",
+    "description": "Made with herbs not native to this world.",
+    "price": 170.71,
+    "quantity": 1,
+    "weight": 2,
+    "health": 50
+  },
+  {
+    "name": "Divine Intervention",
+    "description": "A fast apply and full healing potion.",
+    "price": 423.60,
+    "quantity": 1,
+    "weight": 9,
+    "health": 9000
+  }
+]
