@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Light Chainmail",
+    "description": "A light weight chainmail that can protects against light blows.",
+    "price": 77.74,
+    "quantity": 1,
+    "weight": 6,
+    "armor": 10
+  },
+  {
+    "name": "Mythril Armor",
+    "description": "A rare light weight armor item capable of sustaining many heavy blows.",
+    "price": 3442.89,
+    "quantity": 1,
+    "weight": 10,
+    "armor": 42
+  },
+  {
+    "name": "Leather Jacket",
+    "description": "Light weight but does little to protect in combat.",
+    "price": 9.80,
+    "quantity": 1,
+    "weight": 2,
+    "armor": 2
+  },
+  {
+    "name": "Leather Jacket",
+    "description": "Light weight but does little to protect in combat.",
+    "price": 21.66,
+    "quantity": 1,
+    "weight": 2,
+    "armor": 2
+  },
+  {
+    "name": "Leather Jacket",
+    "description": "Light weight but does little to protect in combat.",
+    "price": 15.23,
+    "quantity": 1,
+    "weight": 2,
+    "armor": 2
+  },
+  {
+    "name": "Leather Jacket",
+    "description": "Light weight but does little to protect in combat.",
+    "price": 14.52,
+    "quantity": 1,
+    "weight": 2,
+    "armor": 2
+  }
+]
